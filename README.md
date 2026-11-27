@@ -1,29 +1,29 @@
 # NekoBox for Android
 
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-[![Releases](https://img.shields.io/github/v/release/MatsuriDayo/NekoBoxForAndroid)](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+[![发行版](https://img.shields.io/github/v/release/xiao-limiao/NekoBoxForAndroid)](https://github.com/xiao-limiao/NekoBoxForAndroid/releases)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 sing-box / universal proxy toolchain for Android.
 
-一款使用 sing-box 的 Android 通用代理软件.
+一款使用 sing-box内核 [MatsuriDayo](https://github.com/MatsuriDayo/NekoBoxForAndroid)UI 的Android 通用代理软件.
 
 ## 下载 / Downloads
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/Matsuridayo/NekoBoxForAndroid/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Matsuridayo/NekoBoxForAndroid/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/xiao-limiao/NekoBoxForAndroid/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/xiao-limiao/NekoBoxForAndroid/releases)
 
-[GitHub Releases 下载](https://github.com/Matsuridayo/NekoBoxForAndroid/releases)
+[GitHub Releases 下载](https://github.com/xiao-limiao/NekoBoxForAndroid/releases)
 
-**Google Play 版本自 2024 年 5 月起已被第三方控制，为非开源版本，请不要下载。**
+**[原版](https://github.com/MatsuriDayo/NekoBoxForAndroid)Google Play 版本自 2024 年 5 月起已被第三方控制，为非开源版本，请不要下载。**
 
 **The Google Play version has been controlled by a third party since May 2024 and is a non-open
 source version. Please do not download it.**
 
-## 更新日志 & Telegram 发布频道 / Changelog & Telegram Channel
+## 原版更新日志 & Telegram 发布频道 / Changelog & Telegram Channel
 
 https://t.me/Matsuridayo
 
-## 项目主页 & 文档 / Homepage & Documents
+## 原版项目主页 & 文档 / Homepage & Documents
 
 https://matsuridayo.github.io
 
@@ -41,14 +41,6 @@ https://matsuridayo.github.io
 * TUIC
 * Hysteria 1/2
 * WireGuard
-* Trojan-Go (trojan-go-plugin)
-* NaïveProxy (naive-plugin)
-* Mieru (mieru-plugin)
-
-请到[这里](https://matsuridayo.github.io/nb4a-plugin/)下载插件以获得完整的代理支持.
-
-Please visit [here](https://matsuridayo.github.io/nb4a-plugin/) to download plugins for full proxy
-supports.
 
 ## 支持的订阅格式 / Supported Subscription Format
 
@@ -95,6 +87,7 @@ Android GUI:
 
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)
+- [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
 Web Dashboard:
 
